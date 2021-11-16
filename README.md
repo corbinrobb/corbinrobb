@@ -2,9 +2,7 @@
 
 I do that coding stuff and I very much enjoy it.  
 \
-I would call myself a problem solver and crafter of fine web experiences.
-I also go by Full-Stack Developer because it is written on the certificate that I got from Bloom Institute of Technology (formerly Lambda School).  
-
+I am a Full-Stack Developer that was trained by Bloom Institute of Technology (formerly Lambda School).  
 \
 I am always excited to learn new things and I am a huge fan of self teaching, especially through experience. Go fast and break things or go slow and be careful,
 both are fine by me as long as I get to keep moving and learning. Building projects as a developer is a dream come true. I get to work with smart and talented people while using my brain to come up with elegant solutions to complex problems.
