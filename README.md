@@ -1,7 +1,5 @@
 # Hello! I'm Corbin! 👋 (He/Him)
 
-I do that coding stuff and I very much enjoy it.  
-\
 I am a Full-Stack Developer that was trained by Bloom Institute of Technology (formerly Lambda School).  
 \
 I am always excited to learn new things and I am a huge fan of self teaching, especially through experience. Go fast and break things or go slow and be careful,
