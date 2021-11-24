@@ -1,15 +1,20 @@
-# Hello! I'm Corbin! 👋 (He/Him)
+# Hello! I'm Corbin! 👋
 
-I am a Full-Stack Developer that was trained by Bloom Institute of Technology (formerly Lambda School).  
-\
-I am always excited to learn new things and I am a huge fan of self teaching, especially through experience. Go fast and break things or go slow and be careful,
-both are fine by me as long as I get to keep moving and learning. Building projects as a developer is a dream come true. I get to work with smart and talented people while using my brain to come up with elegant solutions to complex problems.
+*(He/Him)*
 
+Full-Stack Developer trained by Bloom Institute of Technology (formerly Lambda School) that enjoys working on open source projects and learning new things.  
 \
-I am currently working on some projects on my own to practice new technologies and further improve my skills. I am also making contributions to open source projects when I find the time.
+I am always excited to learn something new and I am a huge fan of self teaching, especially through experience. Building projects as a developer is a dream come true because I get to work with smart and talented people while using my brain to come up with elegant solutions to complex problems.
 
 \
-If you need any help on interesting open source projects or have any positions that you are trying to fill, feel free to reach out to me through my contacts below!
+Being active is one of my favourite things so you will often find me doing boxing training and weight lifting at the gym or taking a leisurely stroll through a park. I occasionally play the guitar and draw things, even though I am not good at either, I still find them enjoyable and relaxing! I have recently begun learning Japanese in preparation to visit family in Japan and I am loving the language and the learning process.
+
+\
+Currently I am working on some projects on my own to practice new technologies and further improve my skills, as well as making contributions to open source projects.
+
+
+\
+I am open to new opportunities! If you need any help on interesting open source projects or have any positions that you are trying to fill, please feel free to reach out!
 
 
 **Contacts:**  
@@ -43,7 +48,7 @@ If you need any help on interesting open source projects or have any positions t
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=corbinrobb)![](https://github-readme-streak-stats.herokuapp.com/?user=corbinrobb)
+![](https://github-readme-stats.vercel.app/api?username=corbinrobb)
 
 
 
