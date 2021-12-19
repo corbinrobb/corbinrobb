@@ -7,9 +7,6 @@ Full-Stack Developer trained by Bloom Institute of Technology (formerly Lambda S
 I am always excited to learn something new and I am a huge fan of self teaching, especially through experience. Building projects as a developer is a dream come true because I get to work with smart and talented people while using my brain to come up with elegant solutions to complex problems.
 
 \
-Being active is one of my favourite things so you will often find me doing boxing training and weight lifting at the gym or taking a leisurely stroll through a park. I occasionally play the guitar and draw things, even though I am not good at either, I still find them enjoyable and relaxing! I have recently begun learning Japanese in preparation to visit family in Japan and I am loving the language and the learning process.
-
-\
 Currently I am working on some projects on my own to practice new technologies and further improve my skills, as well as making contributions to open source projects.
 
 
