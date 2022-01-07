@@ -43,11 +43,6 @@ I am open to new opportunities! If you need any help on interesting open source 
 ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=corbinrobb)
-
-
 
 <!--
 **corbinrobb/corbinrobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
